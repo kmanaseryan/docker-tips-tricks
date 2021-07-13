@@ -1,7 +1,7 @@
 # Docker tips tricks
 Write about docker tips and tricks that might be useful for others.
 
-## Updating files in the docker container
+## How to update files in docker container
 
 1. See what containers are running.
 ### `docker ps`
